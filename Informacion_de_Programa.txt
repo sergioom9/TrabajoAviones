@@ -1,0 +1,230 @@
+09/01/2024 19:00:15: se modificó por última vez
+Fecha y hora: Tue Jan 09 19:00:15 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+09/01/2024 19:00:30: se modificó por última vez
+Fecha y hora: Tue Jan 09 19:00:30 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:00:02: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:00:02 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:00:03: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:00:03 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:10:13: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:10:13 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:11:22: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:11:22 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:13:02: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:13:02 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:13:39: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:13:39 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:13:40: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:13:40 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:14:28: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:14:28 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:14:49: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:14:49 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:15:11: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:15:11 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:19:34: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:19:34 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:21:03: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:21:03 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:24:13: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:24:13 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:26:13: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:26:13 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:27:02: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:27:02 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:31:26: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:31:26 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:32:31: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:32:31 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:39:17: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:39:17 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:40:02: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:40:03 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:41:42: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:41:42 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:43:28: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:43:28 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:49:07: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:49:07 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:53:53: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:53:53 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:57:21: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:57:21 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:59:01: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:59:01 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 13:59:44: se modificó por última vez
+Fecha y hora: Wed Jan 10 13:59:44 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 14:01:18: se modificó por última vez
+Fecha y hora: Wed Jan 10 14:01:18 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 14:05:53: se modificó por última vez
+Fecha y hora: Wed Jan 10 14:05:53 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 14:06:49: se modificó por última vez
+Fecha y hora: Wed Jan 10 14:06:49 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 14:11:05: se modificó por última vez
+Fecha y hora: Wed Jan 10 14:11:05 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 14:12:16: se modificó por última vez
+Fecha y hora: Wed Jan 10 14:12:16 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 14:14:39: se modificó por última vez
+Fecha y hora: Wed Jan 10 14:14:39 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 14:16:02: se modificó por última vez
+Fecha y hora: Wed Jan 10 14:16:02 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 14:16:28: se modificó por última vez
+Fecha y hora: Wed Jan 10 14:16:28 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 14:17:08: se modificó por última vez
+Fecha y hora: Wed Jan 10 14:17:08 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 14:17:50: se modificó por última vez
+Fecha y hora: Wed Jan 10 14:17:50 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 14:18:20: se modificó por última vez
+Fecha y hora: Wed Jan 10 14:18:20 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 14:19:00: se modificó por última vez
+Fecha y hora: Wed Jan 10 14:19:00 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 14:20:14: se modificó por última vez
+Fecha y hora: Wed Jan 10 14:20:14 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 14:25:03: se modificó por última vez
+Fecha y hora: Wed Jan 10 14:25:03 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 14:32:29: se modificó por última vez
+Fecha y hora: Wed Jan 10 14:32:29 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 14:35:13: se modificó por última vez
+Fecha y hora: Wed Jan 10 14:35:13 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 14:35:27: se modificó por última vez
+Fecha y hora: Wed Jan 10 14:35:27 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
+10/01/2024 14:39:37: se modificó por última vez
+Fecha y hora: Wed Jan 10 14:39:37 CET 2024
+Sistema operativo: Windows 11
+Versión del sistema operativo: 10.0
+Procesador: amd64
